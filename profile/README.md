@@ -31,4 +31,5 @@ Notizy is currently in **active development**. Our current focus is on refining 
 Interested in Notizy's development journey? Feel free to explore our repositories, drop a ⭐️, or open an Issue if you have any feedback or ideas!
 
 🕸️ [www.notizy.id](https://notizy.id)
+
 ✉️ [support@notizy.id](mailto:support@notizy.id)
